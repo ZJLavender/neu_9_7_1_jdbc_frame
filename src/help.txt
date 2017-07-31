@@ -1,0 +1,7 @@
+必须在src下创建db.properties文件
+内容格式如下
+
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@10.10.2.1:1521:neu
+user=scott
+pwd=tiger
